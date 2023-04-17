@@ -13,8 +13,8 @@ class ApiSpcController
         $wsdl = "https://treina.spc.org.br/spc/remoting/ws/consulta/consultaWebService?wsdl";
         $location = "https://treina.spc.org.br/spc/remoting/ws/consulta/consultaWebService";
 
-        $user = '4085931';
-        $pass = 'temp@123';
+        $user = '######';
+        $pass = '######';
  
         $context = [
             'http' =>
